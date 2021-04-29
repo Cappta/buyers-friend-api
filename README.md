@@ -43,7 +43,7 @@ Exemplo de retorno:
 
 Método: GET
 
-Rota: /branches
+Rota: /subsidiary
 
 Exemplo de retorno:
 

@@ -51,7 +51,7 @@
             "amount_in_cents": 1000
         }
     ],
-    "branches": [
+    "subsidiary": [
         {"id": 1, "name": "PORTO ALEGRE"},
         {"id": 2, "name": "SÃO PAULO"},
         {"id": 3, "name": "BELO HORIZONTE"},
